@@ -5,6 +5,12 @@ This project analyzes vendor performance, inventory efficiency, and sales trends
 
 The project uses multiple datasets related to sales, inventory, and vendor transactions to uncover patterns in purchasing behavior, pricing strategies, and vendor contributions to overall business performance.
 
+## 🔄 Data Pipeline
+
+<p align="center">
+  <img src="data/project_pipeline.png" width="700">
+</p>
+
 ---
 
 ## 🎯 Business Problem
