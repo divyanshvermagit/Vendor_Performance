@@ -69,3 +69,10 @@ These datasets enable end-to-end analysis of procurement, inventory flow, and ve
 
 ## 🚀 Project Structure
 
+Vendor_Performance/
+│
+├── data/ # Raw datasets
+├── notebooks/ # Jupyter notebooks for analysis
+├── scripts/ # Data ingestion and processing scripts
+├── inventory.db # SQLite database
+├── README.md
