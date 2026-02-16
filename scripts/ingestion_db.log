@@ -1,0 +1,14 @@
+2026-02-12 09:05:03,400 - Fresh ingestion started
+2026-02-12 09:05:03,458 - Processing begin_inventory.csv
+2026-02-12 09:05:07,679 - begin_inventory.csv completed
+2026-02-12 09:05:07,680 - Processing end_inventory.csv
+2026-02-12 09:05:12,010 - end_inventory.csv completed
+2026-02-12 09:05:12,011 - Processing purchases.csv
+2026-02-12 09:06:31,245 - purchases.csv completed
+2026-02-12 09:06:31,258 - Processing purchase_prices.csv
+2026-02-12 09:06:32,720 - purchase_prices.csv completed
+2026-02-12 09:06:32,720 - Processing sales.csv
+2026-02-12 09:27:11,497 - sales.csv completed
+2026-02-12 09:27:11,555 - Processing vendor_invoice.csv
+2026-02-12 09:27:17,441 - vendor_invoice.csv completed
+2026-02-12 09:27:17,449 - Ingestion completed
